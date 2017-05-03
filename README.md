@@ -11,6 +11,8 @@ Dataset was collected by using vatic offline
 
 https://hub.docker.com/r/npsvisionlab/vatic-docker/
 
+https://github.com/cvondrick/vatic
+
 # Approach:
 
 Convert raw data into trainable format for YOLO
