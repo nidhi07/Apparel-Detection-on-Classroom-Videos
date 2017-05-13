@@ -1,0 +1,6 @@
+classes= 2
+train  = /home/nidhi/Documents/rnd/darknet/training_uniform/train.txt
+valid  = /home/nidhi/Documents/rnd/darknet/training_uniform/train.txt
+names = data/uniform.names
+backup = backup
+
